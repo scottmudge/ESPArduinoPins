@@ -1,0 +1,25 @@
+{
+    "name": "ESPDuinoPins",
+    "version": "1.0.0",
+    "description": "A simple PlatformIO library for mapping ESP8266 and ESP32 pins to their arduino numbers.",
+    "keywords": "esp32, espressif, esp8266, pins",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/scottmudge/ESPDuinoPins.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Scott Mudge",
+        "email": "mail@scottmudge.com",
+        "url": "https://scottmudge.com/",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/scottmudge/ESPDuinoPins",
+    "frameworks": "arduino",
+    "platforms": ["espressif32", "espressif8266"],
+    "headers": "ESPDuinoPins.h"
+  }
