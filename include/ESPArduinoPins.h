@@ -51,11 +51,13 @@
 #define ESP32_D19   19
 #define ESP32_D18   18
 #define ESP32_D5    5
-#define ESP32_TX2   17
-#define ESP32_RX2   16
 #define ESP32_D4    4
 #define ESP32_D2    2
 #define ESP32_D15   15
+#define ESP32_D17   17
+#define ESP32_D16   16
+#define ESP32_TX2   ESP32_D17
+#define ESP32_RX2   ESP32_D16
 
 #define ESP32_TOUCH0    ESP32_D4
 #define ESP32_TOUCH2    ESP32_D2
@@ -99,3 +101,4 @@
 #define ESP32_ADC2_CH3  ESP32_D15
 
 #define ESP32_BUILTIN_LED ESP32_D2
+#define ESP32_S2_MINI_BUILTIN_LED ESP32_D15

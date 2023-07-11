@@ -1,6 +1,6 @@
 {
     "name": "ESPArduinoPins",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple PlatformIO library for mapping ESP8266 and ESP32 pins to their arduino numbers.",
     "keywords": "esp32, espressif, esp8266, pins",
     "repository":
