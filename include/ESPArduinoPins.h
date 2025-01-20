@@ -56,6 +56,7 @@
 #define ESP32_D15   15
 #define ESP32_D17   17
 #define ESP32_D16   16
+#define ESP32_D0   0
 #define ESP32_TX2   ESP32_D17
 #define ESP32_RX2   ESP32_D16
 
